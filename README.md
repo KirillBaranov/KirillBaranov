@@ -79,6 +79,10 @@ It's not a demo — I use it daily for real development work.
   <img src="https://img.shields.io/badge/LOC-294K-blue?style=flat-square" alt="Lines of Code" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/KirillBaranov" alt="GitHub Contribution Chart" width="100%" />
+</p>
+
 ```
                     ┌─────────────────┐
                     │    Studio UI    │
