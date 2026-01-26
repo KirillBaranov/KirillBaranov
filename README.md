@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Kirill+Baranov" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Kirill Baranov</h1>
 
 <p align="center">
   <strong>Engineer · System Thinker · Platform Builder</strong>
