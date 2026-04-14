@@ -73,9 +73,9 @@ This shaped how I think about internal platforms, tooling, and engineering syste
 It's not a demo — I use it daily for real development work.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/packages-100-blue?style=flat-square" alt="Packages" />
-  <img src="https://img.shields.io/badge/monorepos-23-blue?style=flat-square" alt="Monorepos" />
-  <img src="https://img.shields.io/badge/LOC-294K-blue?style=flat-square" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/packages-150%2B-blue?style=flat-square" alt="Packages" />
+  <img src="https://img.shields.io/badge/plugins-16-blue?style=flat-square" alt="Plugins" />
+  <img src="https://img.shields.io/badge/LOC-500K%2B-blue?style=flat-square" alt="Lines of Code" />
 </p>
 
 <p align="center">
