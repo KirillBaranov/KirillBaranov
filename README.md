@@ -68,7 +68,7 @@ This shaped how I think about internal platforms, tooling, and engineering syste
 
 ## 🧪 Current focus — KB Labs
 
-**[KB Labs](https://github.com/KirillBaranov/kb-labs)** is an open-source engineering platform I'm building to accelerate development and introduce new approaches to how teams work.
+**[KB Labs](https://kblabs.ru/en)** is an open-source engineering platform I'm building to accelerate development and introduce new approaches to how teams work.
 
 It's not a demo — I use it daily for real development work.
 
@@ -179,6 +179,7 @@ I prefer boring, explainable systems that scale — over clever hacks.
 
 ## 📬 Let's connect
 
+[![Website](https://img.shields.io/badge/k--baranov.ru-000000?style=for-the-badge&logo=safari&logoColor=white)](https://k-baranov.ru/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-baranov/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirill_baranov)
 [![Telegram Channel](https://img.shields.io/badge/Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirill_baranov_official)
